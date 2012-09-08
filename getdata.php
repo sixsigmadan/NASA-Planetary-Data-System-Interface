@@ -1,6 +1,6 @@
 <?php
 // get data from the telnet server of horizons.jpl.nasa.gov
-// still very buggy and a lot to improve!
+// still very buggy and a lot to improve! It will get better. 
 
 require_once "php-telnet/telnet.class.php";
 
